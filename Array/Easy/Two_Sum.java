@@ -1,6 +1,6 @@
 //Two Sum   Leetcode - Easy
 
-package Array;
+package Array.Easy;
 import java.util.*;
 
 public class Two_Sum{

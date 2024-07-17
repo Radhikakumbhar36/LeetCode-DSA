@@ -1,5 +1,5 @@
 //Move Zeros   Leetcode -Easy
-package Array;
+package Array.Easy;
 import java.util.*;
 
  

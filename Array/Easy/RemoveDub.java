@@ -1,7 +1,7 @@
 //Remove Dublicates From Sorted Array
 // Leetcode - Easy
 
-package Array;
+package Array.Easy;
 public class RemoveDub {
 
     public static int RemoveDub(int[] arr){

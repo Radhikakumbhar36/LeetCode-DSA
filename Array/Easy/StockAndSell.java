@@ -1,5 +1,5 @@
 //Best Time To Buy And Sell Stocks   Leetcode -Easy
-package Array;
+package Array.Easy;
 
 public class StockAndSell {
 

@@ -1,4 +1,4 @@
-package Array;
+package Array.Medium;
 public class MatrixZeroes {
     static int[][] zeroMatrix(int[][] matrix, int n, int m) {
         int col0 = 1;

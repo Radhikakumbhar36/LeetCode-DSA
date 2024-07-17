@@ -1,4 +1,4 @@
-package Array;
+package Array.Medium;
 
 //we can use this problem using dynamic programming also
 //explore that
