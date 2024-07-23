@@ -33,7 +33,7 @@ public class SortColors {
     //     }
     // }
 
-    //Optimised Approach
+    //Optimised Approach        ---Dutch National Flag Algo 
     public static void sortColors(int[] arr){
         int low = 0;
         int mid = 0;
