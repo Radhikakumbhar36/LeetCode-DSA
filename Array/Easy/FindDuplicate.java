@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.Easy;
 
 public class FindDuplicate {
     //optimal Approach ----- Linked List Cycle Method
