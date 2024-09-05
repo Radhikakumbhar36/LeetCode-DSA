@@ -11,6 +11,7 @@ public class ChocolateDist {
         Collections.sort(a);
 
         int res = Integer.MAX_VALUE;
+      
 
         for (int i = 0; i <= n - m; i++) {
             int min = a.get(i);
